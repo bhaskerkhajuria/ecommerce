@@ -1,0 +1,88 @@
+2020-10-26T13:27:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\contact-form-7\modules\submit.php on line 8
+
+2020-10-26T13:27:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\custom-links.php on line 10
+
+2020-10-26T13:27:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\instagram.php on line 9
+
+2020-10-26T13:29:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\Requests\Transport\cURL.php on line 441
+
+2020-10-26T13:29:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-admin\includes\template.php on line 12
+
+2020-10-26T13:34:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\woo-variation-swatches\includes\functions.php on line 9
+
+2020-10-26T13:34:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\functions.php on line 5974
+
+2020-10-26T13:34:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\premium-addons-for-elementor\includes\templates\types\manager.php on line 5
+
+2020-10-26T13:34:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementskit-lite\helpers\notice.php on line 4
+
+2020-10-26T13:35:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementskit-lite\widgets\post-tab\post-tab.php on line 7
+
+2020-10-26T13:36:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\premium-addons-for-elementor\admin\settings\modules-setting.php on line 7
+
+2020-10-26T13:36:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\premium-addons-for-elementor\admin\settings\modules-setting.php on line 7
+
+2020-10-26T13:36:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\premium-addons-for-elementor\admin\settings\modules-setting.php on line 7
+
+2020-10-26T13:36:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementskit-lite\widgets\blog-posts\blog-posts.php on line 7
+
+2020-10-26T13:37:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-admin\includes\meta-boxes.php on line 30
+
+2020-10-26T13:38:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementskit-lite\widgets\we-forms\we-forms.php on line 7
+
+2020-10-26T13:38:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Orders\Stats\DataStore.php on line 10
+
+2020-10-26T13:38:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\flickr.php on line 9
+
+2020-10-26T13:38:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\instagram.php on line 9
+
+2020-10-26T13:38:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\instagram.php on line 9
+
+2020-10-26T13:39:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementskit-lite\widgets\we-forms\we-forms-handler.php on line 4
+
+2020-10-26T13:40:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\media-template.php on line 16
+
+2020-10-26T13:40:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementskit-lite\modules\widget-builder\api\common.php on line 4
+
+2020-10-26T13:40:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\product-top-rated.asset.php on line 1
+
+2020-10-26T13:41:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\contact-info.php on line 10
+
+2020-10-26T13:42:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\includes\admin\notes\class-wc-notes-run-db-update.php on line 18
+
+2020-10-26T13:43:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\wp-db.php on line 2024
+
+2020-10-26T13:44:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 13
+
+2020-10-26T13:44:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementskit-lite\widgets\pricing\pricing.php on line 7
+
+2020-10-26T13:45:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\premium-addons-for-elementor\widgets\premium-counter.php on line 23
+
+2020-10-26T13:46:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\premium-addons-for-elementor\includes\templates\classes\manager.php on line 7
+
+2020-10-26T13:46:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\custom-menu.php on line 9
+
+2020-10-26T13:46:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\custom-menu.php on line 9
+
+2020-10-26T13:46:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\widgets\facebook.php on line 11
+
+2020-10-26T13:46:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-admin\includes\post.php on line 20
+
+2020-10-26T13:46:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-admin\includes\class-wp-screen.php on line 15
+
+2020-10-26T13:46:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\elementor\includes\widgets\divider.php on line 4
+
+2020-10-26T13:50:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-10-26T13:50:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\shortcodes\shortcodes.php on line 11
+
+2020-10-26T13:50:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\metabox\butterbean\inc\class-control.php on line 19
+
+2020-10-26T13:50:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-includes\wp-db.php on line 2024
+
+2020-10-26T13:51:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\ocean-extra\includes\jsmin.php on line 57
+
+2020-10-26T13:56:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\premium-addons-for-elementor\widgets\premium-title.php on line 25
+
+2020-10-26T14:03:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ecommerce\wp-content\plugins\premium-addons-for-elementor\widgets\premium-progressbar.php on line 23
+
